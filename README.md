@@ -34,5 +34,5 @@ The program allows :
  - validate xml file with mobile tariffs(resources/tariffs.xml) with xsd schema(resources/tariffs.xsd) using SAX;
  - transform tariffs.xml and create tariffs.html using XSLT;
  - create Java objects from tariffs.xml using StAX;
- - validate created Java objects using custom annotations and corresponding validator;
-This app works using patterns "Singleton", "MVC", "Command", "Facade". "Command" is implemented using lambda expressions in CommandsModel class. 
+ - validate created Java objects using custom annotations and corresponding validator.
+ This app works using patterns "Singleton", "MVC", "Command", "Facade". "Command" is implemented using lambda expressions in CommandsModel class. 
