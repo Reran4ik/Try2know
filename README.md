@@ -35,4 +35,5 @@ The program allows :
  - transform tariffs.xml and create tariffs.html using XSLT;
  - create Java objects from tariffs.xml using StAX;
  - validate created Java objects using custom annotations and corresponding validator.
- This app works using patterns "Singleton", "MVC", "Command", "Facade". "Command" is implemented using lambda expressions in CommandsModel class. 
+ 
+This app works using patterns "Singleton", "MVC", "Command", "Facade". "Command" is implemented using lambda expressions in CommandsModel class. 
